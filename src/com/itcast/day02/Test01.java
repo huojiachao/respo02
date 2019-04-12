@@ -19,4 +19,9 @@ public class Test01 {
         System.out.println("我是你爸爸");
         System.out.println("我是你爸爸");
     }
+    public void Test02(){
+        int i = 4;
+        int n = 5;
+        System.out.println(i + n);
+    }
 }
